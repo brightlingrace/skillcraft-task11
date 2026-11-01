@@ -1,0 +1,851 @@
+Order ID,Order Date,Region,Segment,Category,Sub-Category,Quantity,Sales,Profit
+ORD-1001,2025-04-03,South,Consumer,Office Supplies,Storage,5,334.81,-20.09
+ORD-1002,2024-11-09,West,Consumer,Furniture,Chairs,2,743.55,109.3
+ORD-1003,2025-07-16,South,Home Office,Office Supplies,Binders,3,21.63,-1.38
+ORD-1004,2024-12-11,East,Corporate,Furniture,Bookcases,3,1045.24,130.98
+ORD-1005,2024-01-02,West,Corporate,Office Supplies,Paper,4,25.39,4.19
+ORD-1006,2024-09-27,South,Corporate,Office Supplies,Storage,6,424.86,114.99
+ORD-1007,2024-07-06,South,Consumer,Office Supplies,Binders,6,239.19,10.21
+ORD-1008,2024-05-18,Central,Consumer,Office Supplies,Storage,5,384.26,-37.58
+ORD-1009,2024-02-02,South,Home Office,Technology,Machines,3,421.96,63.01
+ORD-1010,2025-04-06,Central,Consumer,Office Supplies,Binders,5,279.83,-14.6
+ORD-1011,2025-07-28,South,Home Office,Office Supplies,Binders,6,238.67,-13.57
+ORD-1012,2024-06-08,Central,Home Office,Office Supplies,Storage,4,106.38,-0.9
+ORD-1013,2024-12-05,West,Corporate,Furniture,Bookcases,2,558.63,-7.05
+ORD-1014,2024-09-15,Central,Corporate,Office Supplies,Storage,4,329.56,-32.89
+ORD-1015,2025-04-16,East,Consumer,Office Supplies,Paper,5,116.92,-1.46
+ORD-1016,2025-11-29,East,Corporate,Technology,Accessories,4,1721.52,514.9
+ORD-1017,2025-12-10,South,Home Office,Office Supplies,Storage,5,283.89,22.46
+ORD-1018,2025-05-25,South,Consumer,Technology,Phones,3,1179.8,70.23
+ORD-1019,2025-05-25,Central,Home Office,Office Supplies,Binders,6,407.05,75.08
+ORD-1020,2024-10-24,Central,Home Office,Office Supplies,Paper,2,107.95,12.58
+ORD-1021,2024-01-09,East,Home Office,Technology,Machines,4,506.09,131.67
+ORD-1022,2025-02-23,West,Corporate,Technology,Machines,3,1978.54,542.62
+ORD-1023,2025-12-20,East,Consumer,Office Supplies,Binders,1,4.55,0.8
+ORD-1024,2024-02-02,South,Home Office,Furniture,Bookcases,6,1132.67,184.68
+ORD-1025,2024-08-13,East,Corporate,Office Supplies,Binders,6,568.62,86.69
+ORD-1026,2024-01-17,South,Corporate,Office Supplies,Binders,1,53.64,8.49
+ORD-1027,2024-04-08,South,Consumer,Furniture,Bookcases,6,1093.26,313.4
+ORD-1028,2025-11-16,South,Corporate,Office Supplies,Storage,1,20.55,3.67
+ORD-1029,2024-09-02,South,Home Office,Technology,Phones,2,558.06,-25.31
+ORD-1030,2025-11-15,South,Consumer,Office Supplies,Paper,2,151.25,15.22
+ORD-1031,2024-02-20,East,Corporate,Technology,Machines,4,1589.22,268.28
+ORD-1032,2025-03-19,East,Consumer,Technology,Phones,6,519.61,22.9
+ORD-1033,2025-10-17,East,Corporate,Furniture,Tables,4,1142.58,132.83
+ORD-1034,2024-05-06,East,Consumer,Office Supplies,Binders,1,36.49,-0.96
+ORD-1035,2024-09-28,East,Home Office,Furniture,Bookcases,1,191.98,52.57
+ORD-1036,2024-08-07,East,Home Office,Office Supplies,Binders,5,132.37,-12.47
+ORD-1037,2024-10-15,West,Corporate,Office Supplies,Binders,6,257.56,23.02
+ORD-1038,2025-08-30,East,Consumer,Office Supplies,Binders,2,129.66,35.45
+ORD-1039,2025-01-14,East,Consumer,Furniture,Chairs,2,114.27,6.32
+ORD-1040,2024-01-12,Central,Corporate,Office Supplies,Paper,5,323.46,3.1
+ORD-1041,2025-02-21,Central,Consumer,Furniture,Bookcases,2,679.83,-61.65
+ORD-1042,2025-11-06,West,Consumer,Furniture,Chairs,5,867.53,249.01
+ORD-1043,2024-07-08,South,Consumer,Office Supplies,Binders,3,124.19,4.51
+ORD-1044,2025-01-31,Central,Home Office,Office Supplies,Binders,1,35.08,1.96
+ORD-1045,2025-05-20,Central,Consumer,Furniture,Chairs,5,2236.97,626.89
+ORD-1046,2025-11-23,West,Corporate,Office Supplies,Storage,1,23.52,-1.28
+ORD-1047,2024-03-14,West,Consumer,Technology,Phones,2,468.83,-20.07
+ORD-1048,2024-06-13,West,Home Office,Technology,Phones,6,3535.15,-238.48
+ORD-1049,2025-03-20,South,Corporate,Office Supplies,Storage,4,299.42,54.88
+ORD-1050,2025-10-21,South,Consumer,Office Supplies,Storage,2,77.1,9.91
+ORD-1051,2024-04-26,West,Corporate,Office Supplies,Binders,1,23.42,-1.57
+ORD-1052,2025-10-20,South,Consumer,Technology,Accessories,5,3489.7,4.17
+ORD-1053,2024-01-12,West,Corporate,Furniture,Chairs,1,319.01,83.09
+ORD-1054,2025-12-04,Central,Corporate,Furniture,Bookcases,4,1078.68,47.61
+ORD-1055,2025-01-24,West,Home Office,Office Supplies,Binders,1,47.22,-3.28
+ORD-1056,2025-01-08,East,Corporate,Office Supplies,Storage,2,135.68,8.75
+ORD-1057,2024-04-14,Central,Home Office,Furniture,Chairs,5,1692.09,-126.22
+ORD-1058,2025-07-18,East,Corporate,Furniture,Tables,6,2102.77,281.9
+ORD-1059,2025-05-02,South,Corporate,Office Supplies,Storage,5,75.93,-0.65
+ORD-1060,2024-08-23,East,Corporate,Furniture,Tables,2,441.17,99.95
+ORD-1061,2025-03-10,Central,Corporate,Technology,Accessories,1,531.89,96.61
+ORD-1062,2025-04-25,South,Home Office,Office Supplies,Paper,2,106.66,12.69
+ORD-1063,2024-03-09,West,Corporate,Office Supplies,Binders,3,231.83,48.12
+ORD-1064,2024-04-04,Central,Corporate,Office Supplies,Binders,6,125.59,-6.13
+ORD-1065,2025-04-10,South,Corporate,Technology,Phones,3,1145.1,261.9
+ORD-1066,2024-03-13,West,Consumer,Furniture,Bookcases,6,525.3,53.25
+ORD-1067,2024-09-09,South,Home Office,Office Supplies,Storage,6,235.67,-15.6
+ORD-1068,2025-11-29,South,Home Office,Office Supplies,Storage,6,427.86,-32.12
+ORD-1069,2024-07-10,East,Home Office,Office Supplies,Binders,6,37.52,2.21
+ORD-1070,2024-01-25,South,Corporate,Furniture,Bookcases,1,333.95,12.41
+ORD-1071,2025-08-17,West,Consumer,Office Supplies,Binders,2,104.13,7.57
+ORD-1072,2025-03-12,West,Consumer,Office Supplies,Paper,2,45.63,12.48
+ORD-1073,2024-08-30,Central,Consumer,Office Supplies,Storage,4,38.62,9.15
+ORD-1074,2025-07-27,East,Corporate,Technology,Machines,4,2024.16,-64.05
+ORD-1075,2024-08-12,South,Consumer,Office Supplies,Storage,2,126.93,8.91
+ORD-1076,2025-11-03,West,Corporate,Office Supplies,Paper,6,309.17,34.95
+ORD-1077,2025-07-03,Central,Home Office,Office Supplies,Paper,2,56.25,9.71
+ORD-1078,2025-08-10,Central,Home Office,Furniture,Chairs,5,1944.94,535.51
+ORD-1079,2024-10-17,East,Consumer,Technology,Phones,6,3606.65,792.8
+ORD-1080,2024-10-21,South,Corporate,Furniture,Bookcases,6,1417.25,321.21
+ORD-1081,2025-09-07,South,Home Office,Office Supplies,Storage,1,51.29,2.75
+ORD-1082,2024-10-15,South,Corporate,Furniture,Bookcases,6,922.07,231.86
+ORD-1083,2025-08-20,West,Corporate,Office Supplies,Binders,5,160.21,-13.87
+ORD-1084,2024-01-15,East,Consumer,Technology,Phones,1,280.63,39.73
+ORD-1085,2024-10-09,East,Home Office,Furniture,Tables,4,1386.81,258.6
+ORD-1086,2025-09-07,West,Corporate,Technology,Phones,6,1429.79,378.52
+ORD-1087,2024-05-06,West,Consumer,Furniture,Bookcases,4,1187.86,-107.85
+ORD-1088,2025-09-04,East,Corporate,Office Supplies,Paper,6,85.9,-4.37
+ORD-1089,2024-11-04,East,Corporate,Furniture,Chairs,1,178.14,9.21
+ORD-1090,2025-04-19,West,Home Office,Furniture,Chairs,1,101.43,8.75
+ORD-1091,2024-06-09,East,Consumer,Office Supplies,Storage,3,46.9,3.17
+ORD-1092,2025-09-21,West,Home Office,Furniture,Chairs,2,116.51,-4.72
+ORD-1093,2025-10-31,East,Consumer,Furniture,Chairs,1,179.59,7.14
+ORD-1094,2024-04-23,West,Corporate,Office Supplies,Storage,3,205.07,15.65
+ORD-1095,2024-06-10,South,Consumer,Furniture,Bookcases,1,160.14,41.47
+ORD-1096,2024-11-23,West,Consumer,Technology,Machines,2,715.79,-15.43
+ORD-1097,2024-04-29,West,Home Office,Office Supplies,Binders,3,65.0,12.28
+ORD-1098,2024-05-26,South,Consumer,Furniture,Bookcases,6,816.38,-13.75
+ORD-1099,2025-12-07,Central,Home Office,Office Supplies,Binders,4,298.86,68.75
+ORD-1100,2025-08-15,West,Corporate,Office Supplies,Storage,6,518.41,109.85
+ORD-1101,2024-07-19,West,Corporate,Technology,Machines,1,536.32,32.73
+ORD-1102,2024-02-11,South,Consumer,Office Supplies,Paper,2,30.66,8.15
+ORD-1103,2024-10-13,West,Home Office,Furniture,Tables,5,1234.7,-55.86
+ORD-1104,2025-07-11,South,Corporate,Office Supplies,Paper,1,49.6,10.33
+ORD-1105,2025-11-06,East,Home Office,Technology,Machines,3,323.03,24.19
+ORD-1106,2025-07-01,Central,Home Office,Office Supplies,Storage,6,378.34,-5.31
+ORD-1107,2025-12-13,South,Consumer,Technology,Phones,1,280.38,-16.08
+ORD-1108,2025-03-10,West,Corporate,Office Supplies,Paper,3,108.32,-10.73
+ORD-1109,2024-01-12,West,Home Office,Furniture,Bookcases,5,461.61,36.19
+ORD-1110,2025-05-03,East,Corporate,Technology,Machines,5,1029.48,-11.86
+ORD-1111,2024-05-16,Central,Corporate,Furniture,Bookcases,1,97.07,17.37
+ORD-1112,2025-06-09,Central,Home Office,Technology,Phones,2,666.22,105.14
+ORD-1113,2025-05-30,East,Corporate,Furniture,Chairs,5,1266.68,280.68
+ORD-1114,2025-02-17,Central,Home Office,Technology,Phones,1,166.13,41.21
+ORD-1115,2025-11-27,South,Home Office,Office Supplies,Binders,3,12.58,-1.07
+ORD-1116,2025-01-10,West,Corporate,Technology,Accessories,1,417.64,36.3
+ORD-1117,2024-05-19,Central,Corporate,Furniture,Chairs,1,132.01,7.48
+ORD-1118,2024-08-13,East,Home Office,Technology,Machines,3,1827.43,477.85
+ORD-1119,2024-08-05,East,Consumer,Office Supplies,Paper,5,246.47,-7.24
+ORD-1120,2025-07-26,Central,Corporate,Technology,Machines,6,1125.45,156.34
+ORD-1121,2024-03-29,East,Corporate,Technology,Phones,6,2094.53,417.12
+ORD-1122,2024-06-18,East,Home Office,Furniture,Chairs,1,165.74,39.92
+ORD-1123,2025-03-29,East,Consumer,Office Supplies,Binders,3,79.23,-6.38
+ORD-1124,2024-02-09,Central,Consumer,Technology,Phones,2,914.51,35.78
+ORD-1125,2025-07-10,East,Consumer,Technology,Accessories,3,402.58,13.53
+ORD-1126,2025-06-18,West,Corporate,Furniture,Bookcases,3,1117.01,-98.63
+ORD-1127,2024-02-15,Central,Consumer,Furniture,Chairs,2,599.44,8.88
+ORD-1128,2025-08-08,East,Corporate,Office Supplies,Storage,2,84.53,17.28
+ORD-1129,2024-07-10,East,Corporate,Office Supplies,Binders,6,449.88,125.48
+ORD-1130,2025-12-16,South,Home Office,Office Supplies,Storage,1,11.83,2.02
+ORD-1131,2025-07-23,Central,Corporate,Office Supplies,Paper,4,23.43,4.88
+ORD-1132,2024-03-15,South,Corporate,Furniture,Bookcases,5,2043.3,470.71
+ORD-1133,2024-10-29,South,Consumer,Office Supplies,Storage,6,383.6,73.85
+ORD-1134,2024-06-11,South,Consumer,Technology,Phones,3,1025.58,-8.22
+ORD-1135,2024-11-04,South,Home Office,Technology,Machines,2,1150.1,284.59
+ORD-1136,2025-07-11,Central,Consumer,Technology,Accessories,4,1058.97,303.93
+ORD-1137,2025-12-26,West,Consumer,Furniture,Chairs,1,252.13,-8.99
+ORD-1138,2025-05-09,Central,Corporate,Office Supplies,Storage,3,51.95,3.02
+ORD-1139,2025-08-10,East,Corporate,Office Supplies,Storage,1,85.07,-3.54
+ORD-1140,2024-08-12,East,Consumer,Office Supplies,Binders,6,223.03,-15.84
+ORD-1141,2024-05-22,West,Corporate,Furniture,Bookcases,5,386.22,67.89
+ORD-1142,2025-07-06,West,Corporate,Office Supplies,Paper,3,242.07,35.14
+ORD-1143,2025-05-29,Central,Consumer,Technology,Accessories,3,1206.45,257.62
+ORD-1144,2025-07-20,West,Consumer,Office Supplies,Binders,2,54.64,-0.67
+ORD-1145,2024-02-28,Central,Corporate,Technology,Machines,3,1277.38,149.44
+ORD-1146,2024-01-24,South,Consumer,Office Supplies,Paper,5,92.97,26.43
+ORD-1147,2025-07-31,Central,Corporate,Technology,Accessories,2,688.41,65.17
+ORD-1148,2025-06-03,South,Corporate,Office Supplies,Storage,3,246.69,37.65
+ORD-1149,2025-01-15,Central,Corporate,Office Supplies,Storage,6,113.35,-0.13
+ORD-1150,2024-09-17,Central,Consumer,Office Supplies,Binders,2,111.56,27.13
+ORD-1151,2024-12-26,East,Consumer,Furniture,Bookcases,3,1127.02,189.06
+ORD-1152,2024-06-13,East,Consumer,Technology,Machines,1,83.96,13.9
+ORD-1153,2024-10-08,East,Consumer,Technology,Machines,4,2287.3,-17.26
+ORD-1154,2025-11-23,West,Home Office,Furniture,Bookcases,5,1706.72,-69.4
+ORD-1155,2025-03-03,West,Home Office,Furniture,Tables,1,290.41,27.75
+ORD-1156,2024-12-17,West,Consumer,Office Supplies,Storage,2,103.16,17.44
+ORD-1157,2025-06-21,South,Home Office,Furniture,Chairs,2,501.68,-1.17
+ORD-1158,2024-03-09,East,Corporate,Furniture,Tables,1,324.04,18.65
+ORD-1159,2025-08-11,Central,Consumer,Office Supplies,Storage,2,70.12,14.09
+ORD-1160,2024-10-05,Central,Consumer,Technology,Machines,5,1811.33,454.93
+ORD-1161,2025-08-27,East,Consumer,Office Supplies,Binders,6,26.02,1.52
+ORD-1162,2024-01-03,East,Corporate,Office Supplies,Paper,3,31.89,4.71
+ORD-1163,2024-02-12,South,Home Office,Office Supplies,Paper,5,65.64,-0.1
+ORD-1164,2024-05-03,Central,Consumer,Technology,Machines,4,584.77,92.97
+ORD-1165,2025-07-17,West,Home Office,Office Supplies,Binders,4,131.27,0.36
+ORD-1166,2024-03-30,East,Corporate,Technology,Machines,3,1419.91,412.75
+ORD-1167,2024-10-24,South,Corporate,Furniture,Bookcases,4,400.28,50.81
+ORD-1168,2025-12-26,South,Consumer,Technology,Accessories,4,2604.91,593.07
+ORD-1169,2024-10-19,South,Corporate,Furniture,Bookcases,2,244.09,29.94
+ORD-1170,2025-07-14,Central,Corporate,Technology,Phones,2,285.24,-11.07
+ORD-1171,2025-08-12,East,Consumer,Furniture,Chairs,1,102.74,15.94
+ORD-1172,2025-04-03,Central,Corporate,Office Supplies,Storage,2,104.31,8.17
+ORD-1173,2024-03-13,South,Consumer,Office Supplies,Storage,6,138.1,35.59
+ORD-1174,2024-08-17,South,Corporate,Office Supplies,Storage,4,249.28,38.9
+ORD-1175,2024-12-19,Central,Corporate,Office Supplies,Paper,5,94.64,4.28
+ORD-1176,2025-10-31,East,Home Office,Office Supplies,Binders,4,200.94,12.82
+ORD-1177,2024-09-04,South,Consumer,Office Supplies,Binders,4,163.93,-15.08
+ORD-1178,2025-07-03,South,Corporate,Office Supplies,Binders,4,40.04,9.23
+ORD-1179,2025-03-24,Central,Home Office,Furniture,Tables,1,125.61,-0.55
+ORD-1180,2024-08-31,West,Home Office,Office Supplies,Binders,4,71.12,9.01
+ORD-1181,2024-01-07,South,Corporate,Furniture,Chairs,2,610.37,-26.54
+ORD-1182,2025-06-20,West,Consumer,Office Supplies,Binders,3,211.97,33.15
+ORD-1183,2025-04-27,East,Corporate,Technology,Phones,4,2649.48,71.57
+ORD-1184,2024-05-07,South,Consumer,Office Supplies,Storage,2,14.23,1.7
+ORD-1185,2025-10-24,Central,Home Office,Office Supplies,Storage,2,124.9,17.61
+ORD-1186,2025-04-01,Central,Home Office,Office Supplies,Binders,2,15.14,2.7
+ORD-1187,2025-09-06,South,Consumer,Furniture,Chairs,1,364.99,53.73
+ORD-1188,2025-12-03,West,Consumer,Office Supplies,Storage,4,248.79,53.95
+ORD-1189,2025-07-27,Central,Consumer,Office Supplies,Paper,4,85.63,-0.05
+ORD-1190,2024-08-29,East,Consumer,Technology,Phones,5,1720.04,-163.66
+ORD-1191,2024-07-01,East,Corporate,Technology,Accessories,5,1133.28,113.03
+ORD-1192,2025-07-07,East,Corporate,Furniture,Chairs,4,573.92,139.94
+ORD-1193,2024-08-29,West,Consumer,Furniture,Bookcases,1,255.57,3.0
+ORD-1194,2025-08-03,South,Consumer,Office Supplies,Storage,3,67.07,16.97
+ORD-1195,2024-01-17,East,Consumer,Office Supplies,Paper,5,359.17,-20.78
+ORD-1196,2024-09-17,East,Corporate,Office Supplies,Paper,4,243.26,-7.38
+ORD-1197,2024-11-24,West,Home Office,Technology,Accessories,2,1195.51,248.29
+ORD-1198,2025-01-04,West,Consumer,Furniture,Bookcases,4,1130.08,-94.04
+ORD-1199,2025-06-05,Central,Consumer,Technology,Accessories,6,2306.14,-86.12
+ORD-1200,2025-12-25,South,Home Office,Furniture,Tables,1,168.14,1.6
+ORD-1201,2025-06-13,East,Consumer,Furniture,Tables,5,859.52,229.98
+ORD-1202,2024-08-22,East,Corporate,Office Supplies,Binders,6,364.65,43.03
+ORD-1203,2024-03-28,South,Consumer,Technology,Accessories,2,997.01,102.04
+ORD-1204,2024-04-17,Central,Consumer,Office Supplies,Binders,5,241.06,-15.07
+ORD-1205,2025-04-27,South,Corporate,Furniture,Tables,2,580.17,6.48
+ORD-1206,2025-01-27,South,Corporate,Furniture,Tables,2,696.56,34.9
+ORD-1207,2024-03-10,South,Home Office,Technology,Phones,6,3307.56,566.76
+ORD-1208,2025-02-08,West,Corporate,Furniture,Tables,5,1281.71,211.76
+ORD-1209,2024-12-01,West,Home Office,Office Supplies,Paper,1,37.26,7.06
+ORD-1210,2025-02-09,South,Consumer,Office Supplies,Paper,6,157.37,-10.89
+ORD-1211,2024-07-01,East,Corporate,Technology,Machines,5,1424.01,44.54
+ORD-1212,2024-07-16,South,Home Office,Furniture,Bookcases,3,983.48,-30.1
+ORD-1213,2024-05-17,West,Home Office,Office Supplies,Binders,6,351.78,44.4
+ORD-1214,2025-03-01,Central,Corporate,Office Supplies,Paper,6,148.65,41.07
+ORD-1215,2025-08-24,South,Corporate,Technology,Machines,5,1819.75,331.94
+ORD-1216,2024-07-06,East,Home Office,Technology,Phones,3,1382.03,199.14
+ORD-1217,2024-09-26,South,Corporate,Technology,Accessories,6,432.43,4.43
+ORD-1218,2024-09-06,Central,Consumer,Office Supplies,Binders,1,8.0,-0.6
+ORD-1219,2025-04-16,Central,Home Office,Office Supplies,Binders,1,12.01,1.43
+ORD-1220,2025-08-21,West,Consumer,Furniture,Chairs,4,1597.46,-67.12
+ORD-1221,2025-05-04,East,Home Office,Office Supplies,Paper,1,70.6,13.27
+ORD-1222,2024-06-25,East,Corporate,Office Supplies,Paper,1,23.07,5.0
+ORD-1223,2024-04-07,South,Home Office,Furniture,Chairs,2,512.7,85.93
+ORD-1224,2025-07-14,South,Home Office,Technology,Phones,4,2142.55,-169.73
+ORD-1225,2025-08-26,West,Home Office,Furniture,Chairs,4,1498.83,377.45
+ORD-1226,2024-02-13,East,Corporate,Office Supplies,Storage,2,86.69,3.25
+ORD-1227,2024-09-24,West,Consumer,Furniture,Chairs,4,853.73,-18.57
+ORD-1228,2024-09-24,West,Home Office,Office Supplies,Storage,1,70.48,12.57
+ORD-1229,2025-09-04,South,Home Office,Office Supplies,Binders,3,230.08,-6.05
+ORD-1230,2024-05-08,Central,Consumer,Office Supplies,Storage,6,481.89,13.43
+ORD-1231,2025-06-20,Central,Consumer,Furniture,Chairs,6,1682.85,-59.08
+ORD-1232,2025-03-09,West,Home Office,Technology,Phones,2,377.38,85.9
+ORD-1233,2024-10-03,South,Corporate,Office Supplies,Paper,4,148.2,5.05
+ORD-1234,2024-06-24,South,Corporate,Technology,Phones,3,1062.97,170.56
+ORD-1235,2025-04-27,South,Home Office,Technology,Machines,3,241.27,-13.86
+ORD-1236,2024-05-22,Central,Consumer,Furniture,Bookcases,4,553.14,98.27
+ORD-1237,2024-07-25,West,Home Office,Technology,Phones,5,3161.55,680.93
+ORD-1238,2025-12-02,Central,Home Office,Technology,Accessories,3,964.84,237.18
+ORD-1239,2024-03-23,West,Home Office,Technology,Machines,3,1712.99,20.58
+ORD-1240,2025-09-24,South,Home Office,Technology,Machines,1,439.37,66.47
+ORD-1241,2024-03-29,West,Home Office,Office Supplies,Binders,6,49.5,6.28
+ORD-1242,2025-09-28,West,Corporate,Office Supplies,Binders,3,179.48,45.03
+ORD-1243,2025-04-13,Central,Consumer,Technology,Phones,5,1456.17,314.04
+ORD-1244,2025-04-26,South,Consumer,Furniture,Chairs,5,1550.54,259.99
+ORD-1245,2025-02-09,South,Consumer,Office Supplies,Storage,4,160.23,-5.46
+ORD-1246,2025-08-01,West,Corporate,Office Supplies,Paper,1,20.55,1.11
+ORD-1247,2024-09-18,West,Home Office,Office Supplies,Storage,1,51.71,2.31
+ORD-1248,2025-11-19,East,Consumer,Furniture,Tables,1,215.0,16.98
+ORD-1249,2025-12-04,West,Corporate,Technology,Machines,1,114.72,25.36
+ORD-1250,2024-07-01,East,Home Office,Furniture,Chairs,1,172.08,6.55
+ORD-1251,2024-11-27,South,Consumer,Office Supplies,Binders,6,86.16,5.92
+ORD-1252,2024-06-22,Central,Corporate,Furniture,Chairs,5,902.48,-89.68
+ORD-1253,2025-08-16,East,Home Office,Technology,Machines,1,120.25,9.92
+ORD-1254,2024-04-14,West,Corporate,Office Supplies,Storage,4,161.3,10.5
+ORD-1255,2025-03-29,Central,Consumer,Office Supplies,Paper,2,27.48,-0.86
+ORD-1256,2024-11-06,East,Home Office,Office Supplies,Paper,3,46.04,0.83
+ORD-1257,2025-03-13,Central,Corporate,Technology,Machines,6,3124.56,744.4
+ORD-1258,2024-06-04,South,Home Office,Furniture,Chairs,1,178.01,40.76
+ORD-1259,2025-11-09,West,Consumer,Office Supplies,Storage,3,110.66,19.41
+ORD-1260,2025-03-02,Central,Home Office,Furniture,Bookcases,1,185.73,28.74
+ORD-1261,2025-04-30,East,Home Office,Office Supplies,Binders,1,81.9,10.82
+ORD-1262,2025-03-05,West,Home Office,Furniture,Bookcases,5,584.68,-35.24
+ORD-1263,2025-07-02,West,Consumer,Furniture,Bookcases,2,290.11,67.94
+ORD-1264,2024-04-18,South,Corporate,Technology,Phones,4,451.53,-17.78
+ORD-1265,2024-12-19,South,Consumer,Furniture,Bookcases,1,275.59,11.71
+ORD-1266,2025-08-26,Central,Consumer,Furniture,Bookcases,5,896.61,34.89
+ORD-1267,2025-10-25,West,Home Office,Furniture,Chairs,2,520.84,77.79
+ORD-1268,2024-09-23,West,Consumer,Technology,Machines,4,2125.65,291.65
+ORD-1269,2025-06-07,West,Consumer,Technology,Machines,5,480.13,41.63
+ORD-1270,2025-02-20,West,Home Office,Office Supplies,Storage,4,288.06,4.12
+ORD-1271,2025-11-17,Central,Home Office,Office Supplies,Storage,1,62.81,4.86
+ORD-1272,2025-07-28,West,Home Office,Technology,Machines,1,413.46,-1.59
+ORD-1273,2025-07-19,West,Corporate,Furniture,Tables,6,886.78,-77.84
+ORD-1274,2024-01-19,West,Corporate,Office Supplies,Binders,4,123.96,-11.96
+ORD-1275,2025-10-09,East,Consumer,Furniture,Bookcases,6,330.72,-14.17
+ORD-1276,2025-02-17,Central,Corporate,Technology,Machines,3,906.64,57.13
+ORD-1277,2024-12-23,South,Corporate,Office Supplies,Binders,3,129.69,-7.73
+ORD-1278,2025-05-22,West,Home Office,Office Supplies,Storage,2,92.69,15.46
+ORD-1279,2024-08-20,West,Consumer,Technology,Phones,6,425.99,100.91
+ORD-1280,2024-03-14,West,Corporate,Office Supplies,Paper,5,356.32,87.93
+ORD-1281,2024-02-28,Central,Corporate,Furniture,Bookcases,4,551.07,-28.67
+ORD-1282,2024-08-28,West,Consumer,Furniture,Tables,2,208.85,5.65
+ORD-1283,2024-06-05,South,Home Office,Technology,Phones,6,2831.67,-3.6
+ORD-1284,2024-03-23,East,Corporate,Office Supplies,Storage,3,255.82,70.91
+ORD-1285,2024-06-23,Central,Consumer,Furniture,Chairs,2,137.37,23.4
+ORD-1286,2025-06-16,South,Home Office,Technology,Machines,5,3357.54,64.53
+ORD-1287,2025-05-10,West,Corporate,Office Supplies,Storage,2,100.82,9.11
+ORD-1288,2025-10-10,East,Corporate,Office Supplies,Storage,4,75.3,14.15
+ORD-1289,2024-09-19,South,Corporate,Technology,Machines,6,2368.32,-107.43
+ORD-1290,2024-08-22,Central,Consumer,Office Supplies,Binders,4,246.78,-16.25
+ORD-1291,2025-02-01,West,Home Office,Technology,Phones,6,2831.83,146.23
+ORD-1292,2024-07-06,West,Corporate,Technology,Phones,6,366.58,104.62
+ORD-1293,2025-11-12,Central,Home Office,Office Supplies,Paper,4,98.8,12.86
+ORD-1294,2025-09-29,South,Home Office,Office Supplies,Binders,5,29.96,3.21
+ORD-1295,2025-03-31,East,Corporate,Office Supplies,Storage,4,26.21,5.56
+ORD-1296,2024-08-05,South,Corporate,Office Supplies,Binders,3,241.27,-18.36
+ORD-1297,2025-05-06,Central,Corporate,Furniture,Chairs,4,967.49,-9.53
+ORD-1298,2025-02-15,Central,Home Office,Office Supplies,Binders,2,54.02,14.18
+ORD-1299,2024-01-05,South,Consumer,Office Supplies,Storage,4,218.28,38.42
+ORD-1300,2025-03-28,West,Corporate,Furniture,Tables,1,410.37,70.52
+ORD-1301,2025-06-03,South,Consumer,Technology,Machines,2,678.74,166.69
+ORD-1302,2024-09-28,South,Home Office,Office Supplies,Storage,1,63.46,18.04
+ORD-1303,2024-06-02,West,Home Office,Technology,Phones,1,546.72,-7.88
+ORD-1304,2024-12-27,South,Corporate,Technology,Machines,2,1454.33,83.07
+ORD-1305,2024-05-16,East,Corporate,Furniture,Chairs,3,977.52,97.32
+ORD-1306,2025-03-31,South,Home Office,Office Supplies,Paper,4,211.82,50.67
+ORD-1307,2024-09-03,Central,Corporate,Office Supplies,Storage,1,87.74,-3.38
+ORD-1308,2025-09-16,Central,Home Office,Office Supplies,Paper,1,37.48,10.02
+ORD-1309,2024-02-27,West,Consumer,Office Supplies,Storage,2,69.68,16.65
+ORD-1310,2025-08-02,East,Home Office,Office Supplies,Storage,3,60.74,10.44
+ORD-1311,2025-07-05,East,Consumer,Office Supplies,Paper,4,123.13,34.3
+ORD-1312,2024-04-21,Central,Corporate,Technology,Accessories,2,330.08,6.03
+ORD-1313,2024-07-07,South,Corporate,Furniture,Chairs,4,548.97,126.65
+ORD-1314,2025-08-03,Central,Corporate,Technology,Phones,2,572.03,9.16
+ORD-1315,2025-09-06,West,Consumer,Technology,Phones,1,294.47,-5.82
+ORD-1316,2024-06-17,East,Consumer,Office Supplies,Storage,3,63.79,9.97
+ORD-1317,2025-01-13,Central,Corporate,Office Supplies,Storage,6,336.98,16.3
+ORD-1318,2024-07-20,South,Home Office,Furniture,Tables,6,1011.38,119.14
+ORD-1319,2024-04-20,East,Home Office,Technology,Phones,1,331.24,92.64
+ORD-1320,2024-04-13,Central,Home Office,Office Supplies,Storage,1,52.36,12.1
+ORD-1321,2024-05-20,West,Corporate,Technology,Phones,2,486.88,-10.66
+ORD-1322,2024-04-09,South,Corporate,Technology,Phones,1,627.03,32.74
+ORD-1323,2025-12-28,Central,Consumer,Furniture,Bookcases,4,413.6,-25.23
+ORD-1324,2025-06-08,South,Corporate,Office Supplies,Storage,1,8.9,2.18
+ORD-1325,2024-01-22,Central,Consumer,Technology,Phones,3,1451.0,38.63
+ORD-1326,2025-04-08,South,Consumer,Furniture,Chairs,6,1925.7,-183.21
+ORD-1327,2024-03-09,West,Home Office,Furniture,Chairs,5,768.39,148.36
+ORD-1328,2024-05-20,South,Corporate,Office Supplies,Storage,1,30.11,8.36
+ORD-1329,2025-12-14,East,Consumer,Office Supplies,Paper,6,477.37,14.37
+ORD-1330,2025-04-18,South,Consumer,Office Supplies,Binders,2,162.47,31.71
+ORD-1331,2025-08-08,West,Corporate,Office Supplies,Paper,4,232.17,35.35
+ORD-1332,2025-08-18,Central,Home Office,Office Supplies,Paper,3,214.11,29.89
+ORD-1333,2024-11-21,East,Home Office,Furniture,Bookcases,2,617.06,104.17
+ORD-1334,2025-07-13,East,Home Office,Office Supplies,Paper,5,70.92,-1.05
+ORD-1335,2024-06-12,Central,Consumer,Office Supplies,Paper,6,231.78,0.29
+ORD-1336,2024-02-23,West,Home Office,Office Supplies,Storage,5,341.65,33.9
+ORD-1337,2024-09-04,South,Consumer,Furniture,Bookcases,1,226.19,-21.8
+ORD-1338,2025-03-11,Central,Home Office,Office Supplies,Binders,2,45.98,-3.68
+ORD-1339,2024-06-09,Central,Corporate,Furniture,Tables,5,366.02,-5.07
+ORD-1340,2025-01-21,West,Corporate,Technology,Phones,2,657.86,141.25
+ORD-1341,2024-10-21,East,Consumer,Furniture,Tables,3,832.66,111.39
+ORD-1342,2025-11-10,South,Corporate,Technology,Machines,2,801.49,146.02
+ORD-1343,2024-08-01,South,Home Office,Technology,Phones,4,2187.99,-42.8
+ORD-1344,2025-09-05,West,Consumer,Office Supplies,Binders,4,91.4,5.8
+ORD-1345,2024-03-09,East,Home Office,Furniture,Tables,2,894.71,70.22
+ORD-1346,2025-07-20,South,Consumer,Office Supplies,Paper,5,57.33,-0.78
+ORD-1347,2024-04-18,Central,Home Office,Office Supplies,Paper,2,52.3,-3.61
+ORD-1348,2025-12-26,East,Consumer,Office Supplies,Storage,5,394.19,29.83
+ORD-1349,2025-08-19,West,Consumer,Office Supplies,Paper,5,174.4,34.23
+ORD-1350,2025-09-25,West,Home Office,Technology,Machines,6,360.33,92.37
+ORD-1351,2024-04-27,Central,Corporate,Furniture,Bookcases,1,115.8,0.82
+ORD-1352,2024-12-19,Central,Consumer,Office Supplies,Paper,1,51.72,-1.62
+ORD-1353,2025-10-01,South,Corporate,Office Supplies,Binders,5,59.31,2.07
+ORD-1354,2025-07-27,East,Home Office,Furniture,Chairs,5,1931.04,406.67
+ORD-1355,2025-10-29,East,Consumer,Office Supplies,Binders,3,153.77,-14.76
+ORD-1356,2025-03-04,Central,Home Office,Technology,Machines,1,525.41,-13.99
+ORD-1357,2025-06-01,South,Home Office,Furniture,Chairs,6,1586.92,-132.04
+ORD-1358,2025-06-15,South,Consumer,Technology,Machines,4,1317.22,389.48
+ORD-1359,2025-05-21,South,Home Office,Furniture,Tables,3,333.91,15.97
+ORD-1360,2025-04-26,East,Home Office,Office Supplies,Binders,3,208.28,31.82
+ORD-1361,2025-12-21,Central,Consumer,Office Supplies,Storage,1,75.08,8.05
+ORD-1362,2025-02-03,Central,Home Office,Office Supplies,Storage,5,282.24,-10.31
+ORD-1363,2024-09-25,Central,Corporate,Office Supplies,Storage,2,91.76,8.22
+ORD-1364,2025-08-15,West,Corporate,Furniture,Tables,5,638.84,-15.86
+ORD-1365,2024-07-13,West,Home Office,Office Supplies,Paper,2,168.38,19.08
+ORD-1366,2025-08-08,Central,Consumer,Furniture,Bookcases,6,808.2,111.63
+ORD-1367,2025-11-07,Central,Corporate,Technology,Accessories,6,2698.91,-35.38
+ORD-1368,2024-12-31,Central,Home Office,Office Supplies,Binders,3,183.04,13.1
+ORD-1369,2025-11-18,Central,Home Office,Office Supplies,Binders,5,376.77,-27.54
+ORD-1370,2025-04-03,Central,Consumer,Technology,Machines,5,857.66,55.3
+ORD-1371,2024-04-23,East,Home Office,Office Supplies,Storage,6,292.33,60.14
+ORD-1372,2025-07-26,East,Home Office,Office Supplies,Storage,2,113.96,15.09
+ORD-1373,2025-11-25,South,Consumer,Office Supplies,Storage,2,115.67,5.97
+ORD-1374,2024-01-14,Central,Home Office,Furniture,Chairs,3,634.83,175.2
+ORD-1375,2025-05-25,East,Consumer,Office Supplies,Paper,6,488.94,86.23
+ORD-1376,2025-12-21,East,Corporate,Furniture,Tables,3,895.6,-74.39
+ORD-1377,2024-08-09,West,Home Office,Furniture,Tables,2,759.69,167.99
+ORD-1378,2024-05-29,South,Consumer,Office Supplies,Paper,5,313.31,61.48
+ORD-1379,2024-08-26,South,Home Office,Furniture,Chairs,4,1380.9,338.59
+ORD-1380,2024-09-20,Central,Home Office,Technology,Phones,1,621.6,179.86
+ORD-1381,2025-05-08,Central,Corporate,Furniture,Tables,4,750.96,192.81
+ORD-1382,2025-04-29,South,Home Office,Office Supplies,Binders,2,74.2,-2.45
+ORD-1383,2024-02-29,West,Home Office,Technology,Phones,4,945.46,-6.62
+ORD-1384,2025-01-17,South,Home Office,Office Supplies,Storage,5,94.57,3.5
+ORD-1385,2024-08-25,South,Home Office,Furniture,Tables,3,800.84,81.85
+ORD-1386,2024-03-29,South,Corporate,Technology,Machines,1,472.9,31.89
+ORD-1387,2025-01-27,South,Corporate,Technology,Machines,1,422.85,125.07
+ORD-1388,2024-08-14,South,Corporate,Office Supplies,Storage,5,247.28,11.02
+ORD-1389,2025-08-11,East,Corporate,Office Supplies,Paper,3,49.61,-1.48
+ORD-1390,2024-04-29,South,Consumer,Office Supplies,Paper,4,299.69,-14.19
+ORD-1391,2024-03-12,West,Consumer,Technology,Accessories,3,780.25,224.69
+ORD-1392,2025-12-02,South,Consumer,Office Supplies,Storage,3,250.04,32.33
+ORD-1393,2025-09-17,East,Consumer,Furniture,Chairs,6,1581.38,236.24
+ORD-1394,2024-10-05,West,Home Office,Furniture,Tables,1,234.73,65.58
+ORD-1395,2025-12-22,Central,Consumer,Technology,Accessories,5,2286.43,217.0
+ORD-1396,2025-07-20,East,Home Office,Technology,Machines,2,269.32,-4.91
+ORD-1397,2025-10-10,West,Home Office,Technology,Phones,2,805.63,194.31
+ORD-1398,2024-03-12,Central,Corporate,Technology,Phones,3,276.16,-15.29
+ORD-1399,2025-12-25,East,Home Office,Office Supplies,Paper,2,143.24,-0.75
+ORD-1400,2024-05-18,South,Consumer,Office Supplies,Binders,6,470.92,-2.93
+ORD-1401,2025-07-03,Central,Consumer,Technology,Machines,3,1216.08,22.21
+ORD-1402,2024-04-14,South,Home Office,Office Supplies,Paper,6,137.28,25.59
+ORD-1403,2025-08-31,Central,Corporate,Technology,Accessories,4,1192.52,44.55
+ORD-1404,2025-05-25,West,Home Office,Furniture,Tables,1,129.96,10.33
+ORD-1405,2024-01-05,Central,Corporate,Furniture,Bookcases,6,1830.92,479.23
+ORD-1406,2024-05-19,Central,Home Office,Furniture,Bookcases,3,367.57,93.3
+ORD-1407,2025-12-26,East,Corporate,Furniture,Chairs,6,693.2,161.09
+ORD-1408,2024-03-10,East,Home Office,Office Supplies,Storage,6,530.42,81.1
+ORD-1409,2024-08-29,West,Consumer,Furniture,Chairs,3,1262.05,327.32
+ORD-1410,2024-08-24,West,Consumer,Furniture,Chairs,3,1039.33,-54.58
+ORD-1411,2025-08-24,East,Home Office,Furniture,Bookcases,2,660.68,-38.78
+ORD-1412,2025-05-09,West,Home Office,Office Supplies,Storage,5,489.47,35.48
+ORD-1413,2025-05-04,West,Corporate,Furniture,Chairs,4,1003.57,-45.01
+ORD-1414,2025-08-24,East,Consumer,Technology,Accessories,6,1812.58,56.68
+ORD-1415,2025-05-23,Central,Consumer,Office Supplies,Binders,6,267.86,34.98
+ORD-1416,2024-01-05,West,Corporate,Furniture,Tables,3,152.14,21.4
+ORD-1417,2025-02-02,Central,Home Office,Office Supplies,Storage,2,86.45,5.8
+ORD-1418,2024-11-12,East,Consumer,Furniture,Bookcases,3,217.65,50.81
+ORD-1419,2025-04-07,Central,Corporate,Furniture,Bookcases,1,217.35,2.44
+ORD-1420,2024-05-15,South,Home Office,Furniture,Bookcases,6,674.07,-41.6
+ORD-1421,2025-04-02,West,Corporate,Furniture,Tables,5,1749.09,46.59
+ORD-1422,2025-09-25,East,Corporate,Office Supplies,Binders,5,213.2,-20.63
+ORD-1423,2025-09-15,South,Home Office,Technology,Machines,2,686.98,88.77
+ORD-1424,2025-02-19,West,Corporate,Furniture,Bookcases,3,868.73,-13.59
+ORD-1425,2024-03-16,Central,Corporate,Technology,Phones,4,1441.34,431.03
+ORD-1426,2024-09-12,Central,Corporate,Office Supplies,Binders,3,51.74,1.18
+ORD-1427,2025-08-28,Central,Home Office,Furniture,Chairs,5,1399.54,246.55
+ORD-1428,2025-11-15,Central,Home Office,Furniture,Chairs,3,697.2,163.13
+ORD-1429,2025-06-13,Central,Consumer,Furniture,Bookcases,2,677.32,87.77
+ORD-1430,2025-10-03,West,Home Office,Office Supplies,Storage,6,190.62,8.7
+ORD-1431,2025-04-09,South,Consumer,Office Supplies,Binders,6,62.63,-0.71
+ORD-1432,2024-03-11,East,Consumer,Furniture,Chairs,4,750.39,-11.67
+ORD-1433,2024-11-06,South,Consumer,Technology,Phones,4,675.05,12.53
+ORD-1434,2025-04-15,West,Consumer,Furniture,Bookcases,4,888.96,119.06
+ORD-1435,2025-07-03,West,Home Office,Office Supplies,Storage,5,139.43,-7.74
+ORD-1436,2024-10-04,West,Consumer,Technology,Accessories,1,87.41,9.97
+ORD-1437,2025-03-16,East,Consumer,Furniture,Bookcases,1,115.17,18.86
+ORD-1438,2024-05-23,South,Corporate,Office Supplies,Storage,5,206.53,34.31
+ORD-1439,2025-08-29,East,Consumer,Technology,Machines,3,359.5,39.34
+ORD-1440,2025-06-14,West,Home Office,Technology,Accessories,1,551.59,57.73
+ORD-1441,2024-11-11,West,Corporate,Office Supplies,Paper,5,94.63,19.53
+ORD-1442,2024-10-29,East,Corporate,Furniture,Chairs,5,1169.79,188.21
+ORD-1443,2024-01-12,South,Consumer,Office Supplies,Paper,4,48.04,6.61
+ORD-1444,2025-02-11,West,Home Office,Furniture,Tables,1,140.65,16.77
+ORD-1445,2025-09-13,West,Consumer,Office Supplies,Paper,6,376.11,-33.9
+ORD-1446,2024-07-24,Central,Consumer,Furniture,Chairs,2,844.74,14.65
+ORD-1447,2025-11-29,East,Consumer,Office Supplies,Storage,5,342.78,3.01
+ORD-1448,2025-06-10,South,Consumer,Office Supplies,Binders,6,187.34,6.95
+ORD-1449,2024-02-12,East,Consumer,Office Supplies,Storage,4,54.0,11.44
+ORD-1450,2024-10-17,East,Consumer,Office Supplies,Binders,4,22.82,6.46
+ORD-1451,2025-10-02,South,Home Office,Furniture,Bookcases,1,174.74,9.78
+ORD-1452,2024-07-11,Central,Corporate,Technology,Phones,6,4064.56,540.94
+ORD-1453,2024-07-06,Central,Consumer,Office Supplies,Storage,1,79.46,3.64
+ORD-1454,2025-11-15,Central,Consumer,Furniture,Chairs,4,1249.36,240.0
+ORD-1455,2024-07-18,West,Corporate,Furniture,Bookcases,6,891.47,-8.55
+ORD-1456,2024-07-25,Central,Home Office,Office Supplies,Paper,3,224.35,65.1
+ORD-1457,2025-01-03,West,Consumer,Furniture,Bookcases,2,759.67,0.7
+ORD-1458,2025-10-27,West,Corporate,Technology,Machines,3,342.83,102.38
+ORD-1459,2024-04-25,West,Home Office,Technology,Phones,5,489.96,88.61
+ORD-1460,2025-01-01,East,Corporate,Office Supplies,Binders,2,141.85,18.98
+ORD-1461,2025-02-17,South,Consumer,Furniture,Chairs,3,224.58,-12.91
+ORD-1462,2025-02-25,South,Home Office,Furniture,Chairs,1,199.73,31.82
+ORD-1463,2024-11-01,West,Home Office,Technology,Phones,6,912.68,100.49
+ORD-1464,2024-03-11,West,Corporate,Furniture,Chairs,5,1611.74,-22.62
+ORD-1465,2025-01-11,West,Consumer,Furniture,Bookcases,5,753.58,103.32
+ORD-1466,2025-05-03,South,Corporate,Furniture,Tables,3,528.28,46.47
+ORD-1467,2024-09-13,Central,Corporate,Office Supplies,Paper,2,133.91,37.01
+ORD-1468,2024-12-22,West,Consumer,Technology,Accessories,5,2673.15,184.61
+ORD-1469,2025-06-24,East,Home Office,Office Supplies,Paper,5,307.66,-29.18
+ORD-1470,2025-02-25,East,Corporate,Office Supplies,Binders,2,73.05,19.06
+ORD-1471,2025-03-25,South,Home Office,Technology,Accessories,2,431.59,-31.4
+ORD-1472,2024-06-27,Central,Consumer,Office Supplies,Binders,1,21.74,1.44
+ORD-1473,2024-05-02,Central,Home Office,Furniture,Bookcases,6,413.25,-3.84
+ORD-1474,2025-06-03,Central,Corporate,Technology,Machines,5,1485.95,138.67
+ORD-1475,2024-11-29,East,Consumer,Office Supplies,Binders,5,287.58,-5.54
+ORD-1476,2024-07-26,West,Consumer,Technology,Phones,6,2201.45,70.79
+ORD-1477,2024-06-19,West,Home Office,Technology,Phones,1,338.51,14.64
+ORD-1478,2024-04-01,Central,Home Office,Technology,Machines,2,482.59,-15.47
+ORD-1479,2025-06-01,South,Home Office,Office Supplies,Paper,4,20.04,5.75
+ORD-1480,2025-01-04,Central,Home Office,Office Supplies,Storage,5,99.32,11.8
+ORD-1481,2025-07-10,South,Consumer,Office Supplies,Binders,1,77.9,22.17
+ORD-1482,2025-11-29,East,Home Office,Office Supplies,Storage,6,450.0,30.6
+ORD-1483,2025-09-29,Central,Corporate,Furniture,Tables,6,398.97,47.65
+ORD-1484,2024-03-25,East,Consumer,Furniture,Chairs,3,675.27,170.06
+ORD-1485,2025-04-07,East,Consumer,Office Supplies,Binders,3,125.43,17.25
+ORD-1486,2024-02-19,South,Home Office,Furniture,Tables,3,666.54,27.95
+ORD-1487,2024-12-08,South,Consumer,Office Supplies,Paper,5,360.06,34.3
+ORD-1488,2025-07-03,West,Consumer,Office Supplies,Storage,1,18.56,4.89
+ORD-1489,2024-12-09,East,Home Office,Office Supplies,Paper,3,133.76,16.08
+ORD-1490,2025-12-23,East,Corporate,Office Supplies,Storage,1,84.42,11.72
+ORD-1491,2024-02-14,West,Consumer,Furniture,Tables,2,210.13,4.74
+ORD-1492,2025-08-22,South,Consumer,Furniture,Chairs,1,77.18,-1.11
+ORD-1493,2025-09-02,East,Consumer,Office Supplies,Storage,4,269.44,-24.77
+ORD-1494,2025-09-08,South,Home Office,Office Supplies,Storage,2,153.22,-2.55
+ORD-1495,2025-10-14,South,Consumer,Furniture,Tables,1,82.9,-1.34
+ORD-1496,2025-05-01,East,Home Office,Technology,Phones,1,275.17,79.97
+ORD-1497,2025-05-07,West,Consumer,Office Supplies,Binders,3,46.75,-3.66
+ORD-1498,2024-07-10,East,Home Office,Office Supplies,Paper,4,177.84,28.11
+ORD-1499,2025-05-06,Central,Home Office,Office Supplies,Storage,3,264.79,57.73
+ORD-1500,2024-08-19,Central,Corporate,Furniture,Bookcases,3,1054.15,99.58
+ORD-1501,2024-08-02,West,Consumer,Technology,Accessories,5,2290.8,403.48
+ORD-1502,2024-03-15,West,Consumer,Office Supplies,Paper,1,21.62,-1.61
+ORD-1503,2025-12-26,Central,Home Office,Office Supplies,Binders,5,131.3,2.07
+ORD-1504,2025-09-07,Central,Home Office,Technology,Phones,5,1167.28,-37.89
+ORD-1505,2025-07-28,South,Consumer,Office Supplies,Binders,6,127.23,19.65
+ORD-1506,2024-04-25,West,Home Office,Office Supplies,Binders,1,77.11,-4.46
+ORD-1507,2024-03-19,West,Home Office,Technology,Machines,1,398.64,12.14
+ORD-1508,2024-09-12,West,Consumer,Technology,Phones,3,470.37,62.58
+ORD-1509,2025-12-04,East,Consumer,Technology,Accessories,6,853.3,72.56
+ORD-1510,2025-08-19,East,Consumer,Furniture,Tables,3,435.56,28.77
+ORD-1511,2025-08-19,Central,Corporate,Furniture,Tables,2,538.91,108.24
+ORD-1512,2025-12-09,West,Consumer,Office Supplies,Paper,1,68.21,-1.25
+ORD-1513,2025-08-31,West,Home Office,Furniture,Chairs,4,1042.93,201.44
+ORD-1514,2024-10-10,West,Consumer,Furniture,Bookcases,1,87.32,12.97
+ORD-1515,2025-03-15,West,Corporate,Furniture,Chairs,6,482.58,72.32
+ORD-1516,2025-12-08,Central,Home Office,Technology,Accessories,3,1933.89,-185.72
+ORD-1517,2025-04-18,West,Consumer,Technology,Machines,6,4386.83,-267.83
+ORD-1518,2024-03-05,West,Consumer,Office Supplies,Binders,2,157.97,-15.76
+ORD-1519,2025-04-03,South,Corporate,Furniture,Chairs,3,598.1,45.13
+ORD-1520,2025-02-01,Central,Consumer,Technology,Machines,2,172.26,3.31
+ORD-1521,2025-04-21,West,Consumer,Technology,Phones,6,1280.84,261.75
+ORD-1522,2024-03-05,South,Corporate,Technology,Machines,3,959.41,-14.47
+ORD-1523,2025-03-27,West,Corporate,Furniture,Bookcases,3,1072.24,54.49
+ORD-1524,2024-12-05,East,Corporate,Office Supplies,Storage,2,64.84,12.69
+ORD-1525,2024-02-13,Central,Corporate,Office Supplies,Binders,6,152.65,-2.45
+ORD-1526,2025-08-21,West,Home Office,Furniture,Tables,5,1853.82,429.46
+ORD-1527,2025-05-29,West,Home Office,Office Supplies,Paper,3,68.02,18.17
+ORD-1528,2024-08-13,West,Consumer,Technology,Accessories,1,419.11,-17.01
+ORD-1529,2025-07-06,South,Home Office,Furniture,Tables,1,126.14,17.71
+ORD-1530,2024-01-13,Central,Consumer,Technology,Machines,1,327.68,35.03
+ORD-1531,2025-03-04,South,Corporate,Office Supplies,Binders,2,15.83,0.87
+ORD-1532,2024-09-29,East,Corporate,Furniture,Tables,5,2031.23,75.43
+ORD-1533,2025-07-07,South,Consumer,Furniture,Chairs,3,355.29,89.05
+ORD-1534,2025-07-12,Central,Consumer,Office Supplies,Binders,1,13.52,1.8
+ORD-1535,2024-04-01,East,Corporate,Furniture,Chairs,4,515.18,18.99
+ORD-1536,2024-02-18,Central,Corporate,Furniture,Bookcases,1,431.6,15.86
+ORD-1537,2024-05-08,East,Consumer,Technology,Accessories,4,2214.71,527.14
+ORD-1538,2024-11-29,Central,Corporate,Furniture,Tables,2,532.05,87.62
+ORD-1539,2025-04-03,West,Corporate,Office Supplies,Paper,1,50.38,9.37
+ORD-1540,2025-07-31,West,Consumer,Office Supplies,Storage,2,122.26,-6.19
+ORD-1541,2024-09-24,South,Corporate,Furniture,Tables,1,392.13,54.94
+ORD-1542,2024-06-28,Central,Corporate,Office Supplies,Paper,2,83.2,-4.72
+ORD-1543,2025-06-06,Central,Home Office,Office Supplies,Paper,3,247.07,59.05
+ORD-1544,2024-05-28,East,Home Office,Technology,Accessories,5,790.68,-65.94
+ORD-1545,2024-08-25,West,Consumer,Technology,Accessories,5,2793.76,310.21
+ORD-1546,2024-04-15,East,Corporate,Technology,Phones,1,297.13,-8.96
+ORD-1547,2024-09-23,Central,Consumer,Technology,Machines,5,2204.11,69.11
+ORD-1548,2024-01-08,South,Consumer,Furniture,Tables,2,445.23,98.87
+ORD-1549,2024-01-20,South,Home Office,Office Supplies,Storage,6,347.75,-25.08
+ORD-1550,2025-01-12,West,Consumer,Office Supplies,Storage,2,13.4,3.59
+ORD-1551,2025-03-18,West,Consumer,Technology,Accessories,3,1147.05,-6.14
+ORD-1552,2024-02-26,South,Corporate,Furniture,Bookcases,6,2141.19,464.15
+ORD-1553,2025-02-05,West,Corporate,Furniture,Chairs,1,312.04,24.85
+ORD-1554,2025-06-08,South,Consumer,Technology,Accessories,5,3685.5,906.74
+ORD-1555,2025-06-29,East,Consumer,Office Supplies,Paper,5,92.05,-5.68
+ORD-1556,2025-11-28,West,Home Office,Technology,Accessories,5,1124.99,119.39
+ORD-1557,2024-03-28,South,Home Office,Furniture,Tables,4,835.76,48.17
+ORD-1558,2025-10-16,West,Home Office,Technology,Machines,5,2268.9,60.09
+ORD-1559,2024-01-26,East,Consumer,Technology,Machines,3,1525.07,-14.77
+ORD-1560,2024-07-07,Central,Home Office,Office Supplies,Binders,5,373.98,-6.95
+ORD-1561,2025-11-24,South,Home Office,Office Supplies,Binders,4,246.54,28.44
+ORD-1562,2024-06-29,East,Home Office,Technology,Phones,2,887.65,244.35
+ORD-1563,2024-11-02,West,Corporate,Technology,Machines,3,1292.04,70.92
+ORD-1564,2025-10-19,Central,Home Office,Office Supplies,Paper,4,137.3,34.02
+ORD-1565,2025-11-12,South,Consumer,Furniture,Tables,2,654.98,129.0
+ORD-1566,2024-03-30,East,Corporate,Office Supplies,Paper,2,169.12,28.69
+ORD-1567,2024-09-03,West,Home Office,Technology,Machines,4,1211.33,214.03
+ORD-1568,2025-04-05,Central,Home Office,Office Supplies,Paper,3,213.32,24.42
+ORD-1569,2025-08-10,Central,Consumer,Office Supplies,Storage,4,282.09,19.96
+ORD-1570,2024-05-24,West,Consumer,Technology,Phones,2,204.86,21.52
+ORD-1571,2024-01-07,East,Consumer,Office Supplies,Storage,5,80.04,7.1
+ORD-1572,2025-06-05,West,Home Office,Technology,Machines,5,1088.02,87.14
+ORD-1573,2024-03-09,West,Consumer,Office Supplies,Paper,1,23.15,-2.11
+ORD-1574,2025-08-31,West,Consumer,Office Supplies,Storage,5,212.38,-11.73
+ORD-1575,2024-04-01,Central,Corporate,Office Supplies,Storage,2,100.45,9.54
+ORD-1576,2025-08-27,Central,Consumer,Furniture,Chairs,6,934.15,12.16
+ORD-1577,2024-02-24,South,Consumer,Office Supplies,Paper,2,21.27,2.22
+ORD-1578,2024-07-29,South,Home Office,Office Supplies,Paper,6,256.83,57.6
+ORD-1579,2024-01-19,East,Consumer,Furniture,Bookcases,2,817.71,143.37
+ORD-1580,2025-12-09,West,Consumer,Technology,Phones,6,1610.69,468.68
+ORD-1581,2025-12-15,Central,Home Office,Furniture,Chairs,6,835.62,201.17
+ORD-1582,2024-12-30,South,Consumer,Technology,Phones,4,1039.26,227.24
+ORD-1583,2024-01-27,South,Corporate,Furniture,Bookcases,1,121.49,12.77
+ORD-1584,2025-05-22,West,Home Office,Furniture,Bookcases,5,729.07,40.47
+ORD-1585,2024-01-04,Central,Consumer,Office Supplies,Paper,1,76.69,3.01
+ORD-1586,2024-08-04,East,Home Office,Office Supplies,Binders,6,72.66,16.62
+ORD-1587,2025-08-08,Central,Corporate,Furniture,Tables,2,387.31,24.96
+ORD-1588,2025-05-12,West,Consumer,Technology,Accessories,6,1712.92,-165.97
+ORD-1589,2024-08-01,West,Corporate,Furniture,Bookcases,2,722.59,-9.37
+ORD-1590,2025-08-22,East,Corporate,Furniture,Bookcases,4,1031.74,-66.21
+ORD-1591,2025-04-27,Central,Consumer,Office Supplies,Binders,2,102.77,25.55
+ORD-1592,2024-05-20,Central,Corporate,Furniture,Chairs,6,947.96,188.3
+ORD-1593,2024-06-19,Central,Corporate,Furniture,Tables,1,66.82,2.12
+ORD-1594,2025-11-23,East,Consumer,Office Supplies,Paper,3,129.93,38.32
+ORD-1595,2024-04-26,South,Corporate,Furniture,Tables,6,1486.89,195.86
+ORD-1596,2025-02-19,South,Consumer,Technology,Accessories,3,993.54,-27.12
+ORD-1597,2024-03-10,West,Corporate,Furniture,Tables,1,228.47,4.95
+ORD-1598,2024-05-12,Central,Corporate,Office Supplies,Paper,4,166.76,37.14
+ORD-1599,2024-03-22,Central,Consumer,Furniture,Tables,5,930.37,164.36
+ORD-1600,2024-06-29,Central,Consumer,Office Supplies,Binders,2,82.83,13.24
+ORD-1601,2025-03-28,Central,Corporate,Furniture,Chairs,2,637.78,-29.71
+ORD-1602,2024-02-08,South,Corporate,Technology,Machines,2,1381.94,-43.89
+ORD-1603,2024-04-11,West,Corporate,Technology,Machines,5,2557.43,599.85
+ORD-1604,2024-02-12,West,Home Office,Furniture,Bookcases,2,700.16,145.04
+ORD-1605,2024-08-17,East,Home Office,Office Supplies,Paper,2,117.88,10.07
+ORD-1606,2024-08-05,East,Consumer,Furniture,Chairs,4,937.8,85.48
+ORD-1607,2024-09-15,South,Home Office,Office Supplies,Storage,4,112.38,-10.7
+ORD-1608,2024-06-22,East,Home Office,Technology,Phones,3,1517.98,104.01
+ORD-1609,2024-02-27,West,Home Office,Office Supplies,Paper,6,513.86,-41.36
+ORD-1610,2025-07-02,West,Home Office,Office Supplies,Storage,1,59.52,-1.47
+ORD-1611,2024-03-13,East,Home Office,Office Supplies,Storage,5,44.65,1.37
+ORD-1612,2025-07-07,Central,Corporate,Furniture,Chairs,2,456.79,79.84
+ORD-1613,2025-10-26,West,Consumer,Furniture,Bookcases,6,838.84,88.19
+ORD-1614,2025-02-07,Central,Consumer,Office Supplies,Binders,2,151.47,-11.74
+ORD-1615,2024-08-03,West,Consumer,Office Supplies,Paper,1,90.24,18.93
+ORD-1616,2024-07-25,South,Home Office,Office Supplies,Binders,2,80.05,12.68
+ORD-1617,2025-04-26,Central,Consumer,Office Supplies,Paper,1,28.6,8.4
+ORD-1618,2024-01-02,East,Home Office,Furniture,Bookcases,3,594.71,165.88
+ORD-1619,2024-04-21,West,Corporate,Furniture,Chairs,4,815.95,-20.14
+ORD-1620,2024-12-22,East,Consumer,Office Supplies,Paper,2,25.35,4.9
+ORD-1621,2024-10-11,West,Corporate,Office Supplies,Binders,1,19.6,-1.82
+ORD-1622,2024-08-25,West,Home Office,Office Supplies,Binders,4,258.27,45.64
+ORD-1623,2025-10-17,South,Consumer,Technology,Machines,2,262.91,69.43
+ORD-1624,2024-12-27,East,Consumer,Furniture,Chairs,4,749.13,-22.54
+ORD-1625,2025-09-23,West,Consumer,Office Supplies,Storage,2,169.48,0.48
+ORD-1626,2025-09-17,West,Corporate,Office Supplies,Paper,2,27.21,7.94
+ORD-1627,2025-04-06,East,Consumer,Furniture,Tables,2,864.15,-59.87
+ORD-1628,2024-04-23,South,Consumer,Technology,Machines,6,601.32,65.36
+ORD-1629,2024-05-20,Central,Home Office,Furniture,Bookcases,5,413.33,27.47
+ORD-1630,2025-09-13,East,Corporate,Furniture,Tables,2,148.49,40.32
+ORD-1631,2025-01-31,Central,Corporate,Office Supplies,Binders,3,173.92,23.11
+ORD-1632,2025-06-06,Central,Corporate,Technology,Accessories,5,3272.47,608.62
+ORD-1633,2024-09-11,East,Corporate,Furniture,Tables,4,297.29,-4.58
+ORD-1634,2024-07-29,Central,Home Office,Furniture,Tables,1,112.83,-10.42
+ORD-1635,2025-08-31,Central,Home Office,Office Supplies,Storage,3,15.01,1.16
+ORD-1636,2024-09-25,South,Consumer,Office Supplies,Storage,4,165.09,22.96
+ORD-1637,2025-11-18,East,Consumer,Office Supplies,Paper,3,27.63,2.84
+ORD-1638,2025-03-21,East,Corporate,Office Supplies,Paper,6,253.82,24.61
+ORD-1639,2025-03-30,South,Corporate,Technology,Phones,6,2660.01,-128.34
+ORD-1640,2024-08-13,Central,Corporate,Office Supplies,Paper,1,28.62,6.9
+ORD-1641,2024-11-18,West,Home Office,Furniture,Chairs,3,216.92,29.14
+ORD-1642,2024-01-29,West,Consumer,Furniture,Chairs,5,2381.21,-233.48
+ORD-1643,2024-01-29,Central,Corporate,Office Supplies,Storage,5,128.93,28.39
+ORD-1644,2025-10-25,Central,Corporate,Office Supplies,Paper,2,72.82,1.44
+ORD-1645,2025-05-16,West,Corporate,Technology,Phones,2,854.38,-43.88
+ORD-1646,2024-12-21,South,Consumer,Office Supplies,Binders,5,179.25,37.42
+ORD-1647,2024-06-06,East,Consumer,Technology,Phones,2,963.64,213.97
+ORD-1648,2024-04-24,South,Home Office,Technology,Machines,3,1774.66,106.24
+ORD-1649,2025-11-22,East,Consumer,Furniture,Chairs,2,645.46,23.67
+ORD-1650,2024-11-18,East,Consumer,Technology,Machines,5,1953.72,183.88
+ORD-1651,2024-07-23,East,Home Office,Technology,Accessories,3,1922.43,-136.19
+ORD-1652,2024-07-30,South,Corporate,Technology,Phones,5,2796.32,302.99
+ORD-1653,2025-05-12,Central,Corporate,Technology,Phones,1,240.61,-11.65
+ORD-1654,2024-10-31,West,Home Office,Technology,Accessories,2,416.89,85.57
+ORD-1655,2024-06-01,East,Consumer,Furniture,Bookcases,3,279.6,28.65
+ORD-1656,2025-04-10,Central,Corporate,Office Supplies,Paper,1,52.17,1.9
+ORD-1657,2025-09-23,East,Corporate,Furniture,Chairs,2,612.09,161.19
+ORD-1658,2025-08-14,Central,Home Office,Furniture,Tables,2,607.09,47.92
+ORD-1659,2024-05-13,South,Home Office,Office Supplies,Binders,6,235.24,0.77
+ORD-1660,2024-04-10,West,Consumer,Furniture,Tables,4,1110.67,210.04
+ORD-1661,2024-11-10,Central,Consumer,Office Supplies,Paper,5,96.89,18.32
+ORD-1662,2024-01-25,Central,Corporate,Furniture,Tables,6,1602.0,465.53
+ORD-1663,2024-02-22,South,Home Office,Furniture,Bookcases,2,501.78,55.81
+ORD-1664,2025-09-04,East,Home Office,Technology,Phones,1,210.17,2.92
+ORD-1665,2024-02-28,West,Home Office,Office Supplies,Storage,2,117.3,-6.47
+ORD-1666,2024-04-27,West,Home Office,Office Supplies,Binders,2,135.73,14.24
+ORD-1667,2024-01-21,West,Home Office,Technology,Machines,4,337.12,-29.33
+ORD-1668,2025-06-04,East,Home Office,Furniture,Bookcases,6,1505.77,384.72
+ORD-1669,2025-06-01,West,Corporate,Furniture,Bookcases,2,308.06,-11.15
+ORD-1670,2024-06-04,West,Corporate,Technology,Phones,4,1500.84,-80.25
+ORD-1671,2024-10-16,South,Home Office,Furniture,Bookcases,6,1013.97,159.32
+ORD-1672,2025-12-11,Central,Consumer,Office Supplies,Paper,6,549.29,79.3
+ORD-1673,2024-10-06,South,Corporate,Office Supplies,Paper,2,155.3,9.46
+ORD-1674,2025-11-17,West,Consumer,Furniture,Chairs,4,635.9,29.65
+ORD-1675,2025-05-04,West,Consumer,Technology,Machines,4,301.89,85.24
+ORD-1676,2025-04-15,Central,Home Office,Office Supplies,Binders,5,102.3,16.13
+ORD-1677,2024-08-21,East,Corporate,Furniture,Chairs,2,523.11,-17.41
+ORD-1678,2025-12-18,East,Corporate,Office Supplies,Storage,3,115.23,19.06
+ORD-1679,2024-08-08,Central,Corporate,Technology,Accessories,3,1540.19,378.0
+ORD-1680,2025-09-14,West,Home Office,Technology,Phones,2,1387.0,206.35
+ORD-1681,2025-07-22,West,Corporate,Office Supplies,Binders,3,94.43,-5.57
+ORD-1682,2025-12-02,Central,Corporate,Furniture,Tables,3,1318.14,23.09
+ORD-1683,2025-02-24,Central,Corporate,Office Supplies,Storage,3,15.61,1.97
+ORD-1684,2024-04-22,East,Consumer,Technology,Phones,1,466.15,17.19
+ORD-1685,2024-10-28,South,Corporate,Office Supplies,Binders,5,278.47,12.19
+ORD-1686,2024-06-12,Central,Consumer,Technology,Accessories,3,690.82,37.68
+ORD-1687,2025-02-18,West,Home Office,Furniture,Bookcases,1,108.28,17.12
+ORD-1688,2024-01-07,South,Home Office,Office Supplies,Storage,6,428.45,-12.8
+ORD-1689,2024-10-18,East,Consumer,Technology,Accessories,6,2283.97,387.0
+ORD-1690,2025-11-12,South,Consumer,Office Supplies,Binders,5,349.89,-26.58
+ORD-1691,2024-12-28,West,Consumer,Furniture,Chairs,6,832.26,238.98
+ORD-1692,2025-11-09,East,Home Office,Office Supplies,Paper,1,77.61,23.03
+ORD-1693,2025-10-28,South,Home Office,Office Supplies,Paper,1,55.12,6.87
+ORD-1694,2024-06-14,West,Consumer,Office Supplies,Binders,3,164.12,17.9
+ORD-1695,2025-11-18,South,Consumer,Technology,Machines,2,299.11,7.3
+ORD-1696,2024-11-13,East,Corporate,Technology,Phones,6,503.78,37.5
+ORD-1697,2025-08-04,Central,Consumer,Furniture,Bookcases,2,228.36,-15.94
+ORD-1698,2024-11-29,Central,Consumer,Furniture,Tables,3,1043.83,169.86
+ORD-1699,2024-04-22,West,Corporate,Technology,Machines,6,2592.86,774.59
+ORD-1700,2024-06-06,East,Home Office,Technology,Accessories,6,459.79,2.8
+ORD-1701,2025-11-02,West,Home Office,Office Supplies,Paper,2,76.45,14.57
+ORD-1702,2024-07-31,South,Home Office,Technology,Machines,1,322.3,35.86
+ORD-1703,2025-11-13,Central,Consumer,Office Supplies,Binders,3,232.6,22.55
+ORD-1704,2024-11-06,East,Home Office,Office Supplies,Storage,2,46.42,11.91
+ORD-1705,2025-03-22,South,Consumer,Office Supplies,Binders,5,44.73,-2.96
+ORD-1706,2024-05-07,West,Consumer,Technology,Machines,2,989.22,-62.96
+ORD-1707,2025-08-11,East,Consumer,Technology,Phones,1,201.21,-5.08
+ORD-1708,2025-07-26,West,Home Office,Furniture,Chairs,3,208.54,-11.22
+ORD-1709,2024-06-13,East,Corporate,Furniture,Bookcases,6,1471.99,424.26
+ORD-1710,2024-11-28,East,Consumer,Technology,Machines,1,140.36,4.72
+ORD-1711,2025-10-18,West,Consumer,Technology,Phones,6,316.74,80.0
+ORD-1712,2025-08-23,West,Home Office,Office Supplies,Storage,6,203.98,11.13
+ORD-1713,2025-02-16,South,Home Office,Furniture,Chairs,6,730.94,-55.55
+ORD-1714,2024-10-15,East,Corporate,Office Supplies,Binders,2,21.71,1.92
+ORD-1715,2025-04-06,South,Consumer,Technology,Machines,6,3708.66,33.1
+ORD-1716,2024-11-25,Central,Corporate,Office Supplies,Storage,1,82.24,7.39
+ORD-1717,2025-08-22,East,Consumer,Furniture,Bookcases,3,878.84,168.21
+ORD-1718,2024-10-28,South,Corporate,Office Supplies,Paper,3,154.41,31.94
+ORD-1719,2025-02-28,West,Consumer,Office Supplies,Storage,2,81.44,22.14
+ORD-1720,2024-02-25,Central,Home Office,Office Supplies,Storage,1,61.76,11.05
+ORD-1721,2025-01-06,East,Corporate,Furniture,Tables,4,1340.38,329.73
+ORD-1722,2024-07-31,South,Consumer,Office Supplies,Storage,6,366.56,81.87
+ORD-1723,2024-09-26,South,Consumer,Office Supplies,Storage,4,229.68,8.79
+ORD-1724,2024-11-16,East,Home Office,Furniture,Bookcases,5,1178.96,5.2
+ORD-1725,2024-05-17,Central,Corporate,Furniture,Tables,5,1474.69,173.12
+ORD-1726,2025-09-25,West,Corporate,Office Supplies,Binders,2,105.8,4.47
+ORD-1727,2024-12-21,South,Consumer,Office Supplies,Binders,4,164.44,1.13
+ORD-1728,2024-08-26,Central,Consumer,Furniture,Chairs,6,685.62,124.88
+ORD-1729,2025-01-15,East,Corporate,Technology,Accessories,3,1322.06,-123.06
+ORD-1730,2025-08-23,East,Corporate,Office Supplies,Binders,4,287.59,36.03
+ORD-1731,2025-01-28,East,Corporate,Furniture,Chairs,2,209.15,50.49
+ORD-1732,2024-08-23,East,Home Office,Office Supplies,Binders,3,77.78,-5.09
+ORD-1733,2024-10-13,West,Consumer,Furniture,Tables,2,757.75,-26.05
+ORD-1734,2025-12-08,West,Corporate,Technology,Machines,6,1203.24,125.78
+ORD-1735,2024-10-03,East,Home Office,Office Supplies,Binders,2,52.54,3.7
+ORD-1736,2024-03-05,East,Consumer,Office Supplies,Binders,1,72.73,2.41
+ORD-1737,2025-10-12,South,Corporate,Office Supplies,Storage,1,76.27,-4.62
+ORD-1738,2025-06-25,Central,Consumer,Office Supplies,Storage,1,36.78,7.71
+ORD-1739,2024-08-02,South,Corporate,Technology,Accessories,1,432.93,60.2
+ORD-1740,2024-01-01,East,Corporate,Technology,Phones,6,555.25,-27.89
+ORD-1741,2025-09-20,Central,Consumer,Office Supplies,Paper,4,299.97,44.29
+ORD-1742,2025-03-20,East,Corporate,Furniture,Tables,2,730.93,17.5
+ORD-1743,2024-06-01,South,Home Office,Technology,Machines,1,120.91,23.48
+ORD-1744,2025-12-29,West,Corporate,Furniture,Chairs,6,2046.69,380.8
+ORD-1745,2024-04-21,West,Corporate,Technology,Accessories,3,733.5,10.24
+ORD-1746,2024-09-26,West,Consumer,Technology,Phones,4,409.47,99.0
+ORD-1747,2024-11-05,Central,Corporate,Furniture,Tables,2,657.88,133.13
+ORD-1748,2024-08-23,Central,Corporate,Technology,Phones,2,299.7,47.16
+ORD-1749,2024-10-17,East,Home Office,Furniture,Tables,6,2563.33,-50.69
+ORD-1750,2024-07-31,South,Home Office,Furniture,Chairs,4,1791.11,-144.39
+ORD-1751,2025-04-20,West,Home Office,Office Supplies,Storage,4,231.47,-14.49
+ORD-1752,2024-05-21,East,Home Office,Office Supplies,Binders,5,314.6,70.72
+ORD-1753,2024-02-12,South,Home Office,Technology,Phones,6,4226.84,-11.93
+ORD-1754,2024-10-15,West,Home Office,Technology,Machines,6,3308.07,372.28
+ORD-1755,2025-07-11,South,Corporate,Technology,Accessories,4,1155.52,102.06
+ORD-1756,2024-03-06,West,Consumer,Office Supplies,Binders,6,101.88,-4.79
+ORD-1757,2025-09-19,East,Home Office,Technology,Phones,2,176.19,8.39
+ORD-1758,2025-05-01,Central,Consumer,Furniture,Bookcases,6,629.4,114.74
+ORD-1759,2024-03-16,West,Consumer,Office Supplies,Storage,3,193.24,21.92
+ORD-1760,2024-02-21,East,Corporate,Furniture,Chairs,1,170.21,-0.59
+ORD-1761,2025-02-20,South,Home Office,Office Supplies,Binders,3,137.01,40.24
+ORD-1762,2024-08-16,Central,Consumer,Office Supplies,Binders,4,188.06,56.18
+ORD-1763,2024-09-13,East,Consumer,Office Supplies,Storage,1,86.76,-7.97
+ORD-1764,2025-01-20,West,Corporate,Technology,Phones,5,1089.79,278.04
+ORD-1765,2024-07-01,Central,Home Office,Office Supplies,Paper,1,51.07,-2.43
+ORD-1766,2024-12-27,East,Consumer,Furniture,Bookcases,2,239.83,-16.84
+ORD-1767,2024-07-12,South,Home Office,Office Supplies,Binders,1,4.65,0.39
+ORD-1768,2025-07-30,East,Home Office,Office Supplies,Paper,3,21.42,4.34
+ORD-1769,2025-01-09,West,Corporate,Office Supplies,Storage,6,399.87,11.44
+ORD-1770,2024-03-07,West,Home Office,Furniture,Bookcases,2,640.37,-9.72
+ORD-1771,2025-03-22,East,Consumer,Furniture,Tables,5,2079.07,267.7
+ORD-1772,2025-04-10,Central,Corporate,Technology,Accessories,2,194.6,-6.04
+ORD-1773,2024-09-25,West,Home Office,Office Supplies,Storage,6,295.84,44.53
+ORD-1774,2024-12-18,South,Home Office,Furniture,Chairs,4,285.57,29.2
+ORD-1775,2024-08-31,East,Consumer,Furniture,Tables,5,1934.03,163.86
+ORD-1776,2025-12-10,West,Corporate,Furniture,Chairs,2,487.26,118.84
+ORD-1777,2024-08-25,South,Corporate,Office Supplies,Paper,4,245.3,69.85
+ORD-1778,2024-04-20,West,Consumer,Office Supplies,Binders,4,248.66,66.86
+ORD-1779,2025-05-17,South,Consumer,Office Supplies,Binders,2,28.95,6.48
+ORD-1780,2024-06-17,Central,Corporate,Technology,Phones,6,830.94,-45.67
+ORD-1781,2024-10-22,West,Corporate,Furniture,Chairs,3,513.05,3.53
+ORD-1782,2024-01-13,Central,Consumer,Office Supplies,Paper,3,37.72,10.91
+ORD-1783,2025-09-06,South,Corporate,Technology,Phones,5,3061.76,-294.77
+ORD-1784,2025-06-19,West,Home Office,Technology,Accessories,4,2444.29,179.95
+ORD-1785,2024-06-05,East,Consumer,Office Supplies,Storage,5,262.78,59.12
+ORD-1786,2025-06-16,East,Consumer,Furniture,Bookcases,6,1977.14,579.71
+ORD-1787,2025-10-01,Central,Corporate,Office Supplies,Binders,1,3.53,-0.08
+ORD-1788,2025-01-31,East,Consumer,Furniture,Bookcases,2,214.18,15.56
+ORD-1789,2025-03-08,South,Consumer,Office Supplies,Storage,1,14.13,1.44
+ORD-1790,2025-10-04,East,Home Office,Office Supplies,Storage,4,41.79,-1.49
+ORD-1791,2025-03-19,South,Corporate,Office Supplies,Storage,2,107.18,18.0
+ORD-1792,2024-09-03,South,Corporate,Technology,Phones,2,1290.54,27.5
+ORD-1793,2025-04-20,East,Home Office,Technology,Accessories,6,3176.41,454.48
+ORD-1794,2024-08-24,Central,Consumer,Technology,Phones,6,1044.68,-14.52
+ORD-1795,2024-10-18,West,Corporate,Office Supplies,Storage,2,183.64,-7.89
+ORD-1796,2025-07-02,West,Consumer,Office Supplies,Storage,5,74.87,15.79
+ORD-1797,2025-07-23,Central,Consumer,Office Supplies,Storage,5,381.16,-8.06
+ORD-1798,2025-01-13,West,Corporate,Technology,Machines,1,575.3,-33.21
+ORD-1799,2025-07-19,South,Corporate,Office Supplies,Paper,5,50.99,6.91
+ORD-1800,2025-01-18,Central,Home Office,Technology,Phones,2,261.06,3.79
+ORD-1801,2024-05-13,Central,Consumer,Furniture,Chairs,6,1334.93,344.43
+ORD-1802,2024-08-03,Central,Consumer,Furniture,Chairs,4,957.13,160.65
+ORD-1803,2024-03-07,East,Consumer,Furniture,Tables,4,858.65,100.77
+ORD-1804,2025-09-11,Central,Corporate,Office Supplies,Storage,5,293.89,32.58
+ORD-1805,2024-03-07,East,Home Office,Technology,Phones,2,698.39,165.64
+ORD-1806,2024-06-24,Central,Home Office,Furniture,Chairs,4,331.88,52.4
+ORD-1807,2025-08-22,Central,Consumer,Technology,Phones,4,1488.06,10.64
+ORD-1808,2024-05-21,South,Consumer,Technology,Phones,4,1158.45,275.97
+ORD-1809,2024-03-20,Central,Consumer,Technology,Accessories,4,1137.0,-96.25
+ORD-1810,2025-03-08,South,Home Office,Office Supplies,Storage,4,20.08,0.75
+ORD-1811,2025-12-03,West,Consumer,Technology,Phones,5,3284.96,732.52
+ORD-1812,2025-03-31,Central,Corporate,Furniture,Chairs,4,1663.88,-24.73
+ORD-1813,2024-06-09,East,Consumer,Furniture,Chairs,5,1597.3,404.9
+ORD-1814,2025-10-04,South,Home Office,Furniture,Tables,2,508.22,109.16
+ORD-1815,2025-04-01,East,Corporate,Office Supplies,Storage,3,259.39,2.49
+ORD-1816,2024-06-15,South,Corporate,Furniture,Chairs,5,505.77,91.3
+ORD-1817,2025-06-12,South,Consumer,Office Supplies,Paper,1,72.96,20.76
+ORD-1818,2025-02-24,East,Consumer,Technology,Phones,4,1274.92,109.57
+ORD-1819,2024-01-31,Central,Consumer,Office Supplies,Storage,4,297.88,-16.28
+ORD-1820,2024-01-10,South,Corporate,Technology,Machines,1,281.39,-11.47
+ORD-1821,2025-04-01,Central,Consumer,Technology,Phones,3,1337.02,-133.02
+ORD-1822,2025-08-14,West,Consumer,Office Supplies,Paper,2,123.76,-10.01
+ORD-1823,2024-12-03,West,Consumer,Technology,Machines,6,3668.07,613.33
+ORD-1824,2025-03-12,Central,Consumer,Technology,Accessories,2,1172.82,260.72
+ORD-1825,2025-11-26,East,Consumer,Office Supplies,Storage,4,37.81,-0.92
+ORD-1826,2025-09-03,East,Consumer,Office Supplies,Paper,1,33.66,-1.85
+ORD-1827,2025-07-19,West,Consumer,Technology,Phones,5,1316.13,-101.96
+ORD-1828,2025-07-14,East,Corporate,Office Supplies,Paper,2,45.09,-2.35
+ORD-1829,2024-04-04,East,Consumer,Furniture,Bookcases,6,1415.42,-79.17
+ORD-1830,2024-09-22,South,Consumer,Technology,Machines,5,1954.68,372.56
+ORD-1831,2024-12-18,East,Consumer,Technology,Phones,5,3270.82,895.25
+ORD-1832,2024-11-26,Central,Consumer,Furniture,Tables,3,359.95,35.89
+ORD-1833,2025-09-18,East,Corporate,Technology,Phones,5,1086.02,298.0
+ORD-1834,2024-12-04,Central,Corporate,Furniture,Tables,1,89.04,19.44
+ORD-1835,2024-06-13,Central,Home Office,Office Supplies,Paper,1,33.63,-2.39
+ORD-1836,2025-03-25,South,Corporate,Technology,Machines,5,1350.97,-75.85
+ORD-1837,2024-12-01,Central,Corporate,Office Supplies,Binders,3,119.18,26.7
+ORD-1838,2024-08-10,South,Home Office,Technology,Accessories,3,488.08,-22.75
+ORD-1839,2024-06-12,East,Home Office,Office Supplies,Paper,1,4.56,0.36
+ORD-1840,2025-11-18,South,Consumer,Furniture,Bookcases,5,1531.93,-144.29
+ORD-1841,2024-10-29,Central,Corporate,Technology,Accessories,5,1087.39,-63.96
+ORD-1842,2025-11-05,East,Consumer,Office Supplies,Paper,1,86.5,13.17
+ORD-1843,2024-03-26,East,Consumer,Office Supplies,Binders,4,20.45,0.75
+ORD-1844,2024-03-10,West,Home Office,Office Supplies,Binders,3,282.58,-5.27
+ORD-1845,2024-11-20,East,Home Office,Furniture,Tables,6,938.5,25.66
+ORD-1846,2025-07-21,Central,Consumer,Office Supplies,Storage,3,58.54,4.25
+ORD-1847,2025-08-05,West,Corporate,Furniture,Chairs,1,337.71,39.31
+ORD-1848,2024-04-23,Central,Corporate,Technology,Accessories,4,1370.05,-27.14
+ORD-1849,2024-09-06,East,Home Office,Office Supplies,Storage,1,77.8,5.01
+ORD-1850,2024-10-24,East,Home Office,Office Supplies,Storage,5,317.43,-30.01
